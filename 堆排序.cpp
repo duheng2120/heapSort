@@ -1,7 +1,6 @@
 #include <iostream>
 #include <stdio.h>
 using namespace std;
-
 void show(int* a, int m,int n)
 {
 	for (int i = m; i <= n; i++)
